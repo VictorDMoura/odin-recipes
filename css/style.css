@@ -1,0 +1,36 @@
+body {
+  background-color: #cece5a;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #c51605;
+}
+
+h1,
+h2,
+strong {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  height: auto;
+  width: 320px;
+}
+
+.main-container {
+  text-align: center;
+}
+
+.text {
+  text-align: left;
+}
+
+.list {
+  text-align: left;
+}
